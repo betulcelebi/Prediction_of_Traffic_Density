@@ -1,6 +1,6 @@
-#**Prediction_of_Traffic_Density**
+**Prediction_of_Traffic_Density**
 
-#**TEAM**
+**TEAM**
 
 *Betül Çelebi
 
