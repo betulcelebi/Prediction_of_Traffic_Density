@@ -1,4 +1,4 @@
-Kodluyoruz Data Science 102 Bootcamp Plant Pathology Project
+**Kodluyoruz Data Science for Public Good**
 
 
 
